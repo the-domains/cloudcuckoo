@@ -1,19 +1,4 @@
-name: cloudcuckoo
-favicon: null
-layout_spectrum: 0.9735076802317053
 typography_spectrum: 0.8488874796312302
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.4136313816998154
   saturation: 0.3012307530734688
   rhythmicContrast: 0.37700866628438234
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9735076802317053
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cloudcuckoo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: cloud cuckoo
 purpose: []
